@@ -49,3 +49,10 @@ local
 
 # vercel
 .vercel
+
+# Devcontainer
+.devcontainer
+
+# Dev environment
+.env.local
+.env
