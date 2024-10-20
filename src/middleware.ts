@@ -19,6 +19,9 @@ const isProtectedRoute = createRouteMatcher([
   '/:locale/dashboard(.*)',
   '/onboarding(.*)',
   '/:locale/onboarding(.*)',
+]);
+
+const isApiRoute = createRouteMatcher([
   '/api(.*)',
   '/:locale/api(.*)',
 ]);
@@ -27,6 +30,19 @@ export default function middleware(
   request: NextRequest,
   event: NextFetchEvent,
 ) {
+  if (request.nextUrl.pathname.startsWith('/api')) {
+    try {
+      return clerkMiddleware()(request, event);
+    } catch (error) {
+      console.error('Error in Clerk middleware for API route:', error);
+      return NextResponse.json({ message: 'Internal Server Error' }, { status: 500 });
+    }
+  }
+
+  if (isApiRoute(request)) {
+    // For API routes, only apply Clerk middleware without redirection
+    return clerkMiddleware()(request, event);
+  }
   if (
     request.nextUrl.pathname.includes('/sign-in')
     || request.nextUrl.pathname.includes('/sign-up')
@@ -64,7 +80,6 @@ export default function middleware(
       return intlMiddleware(req);
     })(request, event);
   }
-
   return intlMiddleware(request);
 }
 
