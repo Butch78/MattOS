@@ -1,0 +1,166 @@
+{
+  "Index": {
+    "meta_title": "SaaS-Vorlage - Die perfekte SaaS-Vorlage, um Ihr Geschäft mühelos aufzubauen und zu skalieren.",
+    "meta_description": "Eine kostenlose und Open-Source-Landingpage-Vorlage für Ihr SaaS-Geschäft, entwickelt mit React, TypeScript, Shadcn UI und Tailwind CSS."
+  },
+  "Navbar": {
+    "sign_in": "Anmelden",
+    "sign_up": "Registrieren",
+    "product": "Produkt",
+    "docs": "Dokumentation",
+    "blog": "Blog",
+    "community": "Community",
+    "company": "Unternehmen"
+  },
+  "Hero": {
+    "follow_twitter": "Folgen Sie @Ixartz auf Twitter",
+    "title": "Die perfekte <important>SaaS-Vorlage</important>, um Ihr Geschäft mühelos aufzubauen und zu skalieren.",
+    "description": "Eine kostenlose und Open-Source-Landingpage-Vorlage für Ihr SaaS-Geschäft, entwickelt mit React, TypeScript, Shadcn UI und Tailwind CSS.",
+    "primary_button": "Loslegen",
+    "secondary_button": "Auf GitHub markieren"
+  },
+  "Sponsors": {
+    "title": "Gesponsert von"
+  },
+  "Features": {
+    "section_subtitle": "Funktionen",
+    "section_title": "Das volle Potenzial der SaaS-Vorlage freischalten",
+    "section_description": "Eine kostenlose und Open-Source-Landingpage-Vorlage für Ihr SaaS-Geschäft, entwickelt mit React, TypeScript, Shadcn UI und Tailwind CSS.",
+    "feature1_title": "Node.js",
+    "feature2_title": "React",
+    "feature3_title": "Tailwind CSS",
+    "feature4_title": "TypeScript",
+    "feature5_title": "Shadcn UI",
+    "feature6_title": "ESLint",
+    "feature_description": "Eine kostenlose und Open-Source-Landingpage-Vorlage für Ihr SaaS-Geschäft, entwickelt mit React, TypeScript, Shadcn UI und Tailwind CSS."
+  },
+  "Pricing": {
+    "section_subtitle": "Funktionen",
+    "section_title": "Das volle Potenzial der SaaS-Vorlage freischalten",
+    "section_description": "Eine kostenlose und Open-Source-Landingpage-Vorlage für Ihr SaaS-Geschäft, entwickelt mit React, TypeScript, Shadcn UI und Tailwind CSS.",
+    "button_text": "Loslegen"
+  },
+  "PricingPlan": {
+    "free_plan_name": "Kostenlos",
+    "premium_plan_name": "Premium",
+    "enterprise_plan_name": "Enterprise",
+    "free_plan_description": "Für Einzelpersonen",
+    "premium_plan_description": "Für kleine Teams",
+    "enterprise_plan_description": "Für Branchenführer",
+    "feature_team_member": "{number} Teammitglieder",
+    "feature_website": "{number} Websites",
+    "feature_storage": "{number} GB Speicher",
+    "feature_transfer": "{number} TB Transfer",
+    "feature_email_support": "E-Mail-Support",
+    "plan_interval_month": "Monat",
+    "plan_interval_year": "Jahr",
+    "next_renew_date": "Ihr Abonnement wird am {date} erneuert"
+  },
+  "FAQ": {
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam enim dui, id consequat turpis ullamcorper ac. Mauris id quam dolor. Nullam eu egestas turpis. Proin risus elit, sollicitudin in mi a, accumsan euismod turpis. In euismod mi sed diam tristique hendrerit."
+  },
+  "CTA": {
+    "title": "Sind Sie bereit?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "button_text": "Auf GitHub markieren"
+  },
+  "Footer": {
+    "product": "Produkt",
+    "docs": "Dokumentation",
+    "blog": "Blog",
+    "community": "Community",
+    "company": "Unternehmen",
+    "terms_of_service": "Nutzungsbedingungen",
+    "privacy_policy": "Datenschutzrichtlinie",
+    "designed_by": "Entworfen von <author></author>."
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "Sie haben nicht die erforderlichen Berechtigungen, um diese Aktion durchzuführen"
+  },
+  "SignIn": {
+    "meta_title": "Anmelden",
+    "meta_description": "Melden Sie sich mühelos bei Ihrem Konto mit unserem benutzerfreundlichen Anmeldeprozess an."
+  },
+  "SignUp": {
+    "meta_title": "Registrieren",
+    "meta_description": "Erstellen Sie mühelos ein Konto über unseren intuitiven Registrierungsprozess."
+  },
+  "DashboardLayout": {
+    "home": "Startseite",
+    "todos": "Aufgaben",
+    "members": "Mitglieder",
+    "billing": "Abrechnung",
+    "settings": "Einstellungen",
+    "transactions": "Transaktionen"
+  },
+  "Dashboard": {
+    "meta_title": "SaaS-Vorlagen-Dashboard",
+    "meta_description": "Eine kostenlose und Open-Source-Landingpage-Vorlage für Ihr SaaS-Geschäft, entwickelt mit Next.js, TypeScript, Shadcn UI und Tailwind CSS."
+  },
+  "DashboardIndex": {
+    "title_bar": "Dashboard",
+    "title_bar_description": "Willkommen in Ihrem Dashboard",
+    "message_state_title": "Lassen Sie uns anfangen",
+    "message_state_description": "Sie können diese Seite anpassen, indem Sie die Datei unter <code>dashboard/page.tsx</code> bearbeiten",
+    "message_state_button": "Brauchen Sie eine Stripe-Integration? Schauen Sie sich Next.js Boilerplate Pro an"
+  },
+  "UserProfile": {
+    "title_bar": "Benutzerprofil",
+    "title_bar_description": "Anzeigen und Verwalten Ihres Benutzerprofils"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Organisationsverwaltung",
+    "title_bar_description": "Verwalten Sie Ihre Organisation"
+  },
+  "Billing": {
+    "title_bar": "Abrechnung",
+    "title_bar_description": "Verwalten Sie Ihre Abrechnung und Ihr Abonnement",
+    "current_section_title": "Aktueller Plan",
+    "current_section_description": "Passen Sie Ihren Zahlungsplan an, um Ihren Anforderungen am besten zu entsprechen",
+    "manage_subscription_button": "Abonnement verwalten"
+  },
+  "BillingOptions": {
+    "current_plan": "Aktueller Plan",
+    "upgrade_plan": "Loslegen"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Zahlungsbestätigung",
+    "message_state_title": "Zahlung erfolgreich",
+    "message_state_description": "Ihre Zahlung wurde erfolgreich verarbeitet. Vielen Dank für Ihren Einkauf!",
+    "message_state_button": "Zurück zur Abrechnung"
+  },
+  "DataTable": {
+    "no_results": "Keine Ergebnisse."
+  },
+  "Todos": {
+    "title_bar": "Aufgabenliste",
+    "title_bar_description": "Anzeigen und Verwalten Ihrer Aufgabenliste",
+    "add_todo_button": "Neue Aufgabe"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Menü öffnen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "title_header": "Titel",
+    "message_header": "Nachricht",
+    "created_at_header": "Erstellt am"
+  },
+  "AddTodo": {
+    "title_bar": "Aufgabe hinzufügen",
+    "add_todo_section_title": "Neue Aufgabe erstellen",
+    "add_todo_section_description": "Füllen Sie das folgende Formular aus, um eine neue Aufgabe zu erstellen"
+  },
+  "EditTodo": {
+    "title_bar": "Aufgabe bearbeiten",
+    "edit_todo_section_title": "Aufgabe ändern",
+    "edit_todo_section_description": "Füllen Sie das folgende Formular aus, um die Aufgabe zu bearbeiten"
+  },
+  "TodoForm": {
+    "title_label": "Titel",
+    "title_description": "Geben Sie einen beschreibenden Titel für Ihre Aufgabe ein.",
+    "message_title": "Nachricht",
+    "message_description": "Geben Sie eine detaillierte Nachricht für Ihre Aufgabe ein.",
+    "submit_button": "Absenden"
+  }
+}
