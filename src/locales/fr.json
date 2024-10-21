@@ -91,7 +91,8 @@
     "todos": "Todos",
     "members": "Membres",
     "billing": "Facturation",
-    "settings": "Réglages"
+    "settings": "Réglages",
+    "transactions": "Transactions"
   },
   "Dashboard": {
     "meta_title": "Tableau de bord du SaaS Template",
