@@ -1,0 +1,166 @@
+{
+  "Index": {
+    "meta_title": "MattOS Template - Il perfetto template SaaS per costruire e far crescere la tua attività con facilità.",
+    "meta_description": "Un modello gratuito e open-source per la pagina di destinazione della tua attività SaaS, costruito con React, TypeScript, Shadcn UI e Tailwind CSS."
+  },
+  "Navbar": {
+    "sign_in": "Accedi",
+    "sign_up": "Registrati",
+    "product": "Prodotto",
+    "docs": "Documentazione",
+    "blog": "Blog",
+    "community": "Comunità",
+    "company": "Azienda"
+  },
+  "Hero": {
+    "follow_twitter": "Segui @Ixartz su Twitter",
+    "title": "Il perfetto <important>template SaaS</important> per costruire e far crescere la tua attività con facilità.",
+    "description": "Un modello gratuito e open-source per la pagina di destinazione della tua attività SaaS, costruito con React, TypeScript, Shadcn UI e Tailwind CSS.",
+    "primary_button": "Inizia ora",
+    "secondary_button": "Stella su GitHub"
+  },
+  "Sponsors": {
+    "title": "Sponsorizzato da"
+  },
+  "Features": {
+    "section_subtitle": "Caratteristiche",
+    "section_title": "Sblocca il pieno potenziale del template SaaS",
+    "section_description": "Un modello gratuito e open-source per la pagina di destinazione della tua attività SaaS, costruito con React, TypeScript, Shadcn UI e Tailwind CSS.",
+    "feature1_title": "Node.js",
+    "feature2_title": "React",
+    "feature3_title": "Tailwind CSS",
+    "feature4_title": "TypeScript",
+    "feature5_title": "Shadcn UI",
+    "feature6_title": "ESLint",
+    "feature_description": "Un modello gratuito e open-source per la pagina di destinazione della tua attività SaaS, costruito con React, TypeScript, Shadcn UI e Tailwind CSS."
+  },
+  "Pricing": {
+    "section_subtitle": "Caratteristiche",
+    "section_title": "Sblocca il pieno potenziale del template SaaS",
+    "section_description": "Un modello gratuito e open-source per la pagina di destinazione della tua attività SaaS, costruito con React, TypeScript, Shadcn UI e Tailwind CSS.",
+    "button_text": "Inizia ora"
+  },
+  "PricingPlan": {
+    "free_plan_name": "Gratis",
+    "premium_plan_name": "Premium",
+    "enterprise_plan_name": "Enterprise",
+    "free_plan_description": "Per individui",
+    "premium_plan_description": "Per piccoli team",
+    "enterprise_plan_description": "Per leader del settore",
+    "feature_team_member": "{number} Membri del team",
+    "feature_website": "{number} Siti web",
+    "feature_storage": "{number} GB di Archiviazione",
+    "feature_transfer": "{number} TB di Trasferimento",
+    "feature_email_support": "Supporto via email",
+    "plan_interval_month": "mese",
+    "plan_interval_year": "anno",
+    "next_renew_date": "Il tuo abbonamento si rinnova il {date}"
+  },
+  "FAQ": {
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam enim dui, id consequat turpis ullamcorper ac. Mauris id quam dolor. Nullam eu egestas turpis. Proin risus elit, sollicitudin in mi a, accumsan euismod turpis. In euismod mi sed diam tristique hendrerit."
+  },
+  "CTA": {
+    "title": "Sei pronto?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "button_text": "Stella su GitHub"
+  },
+  "Footer": {
+    "product": "Prodotto",
+    "docs": "Documentazione",
+    "blog": "Blog",
+    "community": "Comunità",
+    "company": "Azienda",
+    "terms_of_service": "Termini di servizio",
+    "privacy_policy": "Informativa sulla privacy",
+    "designed_by": "Progettato da <author></author>."
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "Non hai i permessi per eseguire questa azione"
+  },
+  "SignIn": {
+    "meta_title": "Accedi",
+    "meta_description": "Accedi al tuo account senza problemi con il nostro processo di login facile da usare."
+  },
+  "SignUp": {
+    "meta_title": "Registrati",
+    "meta_description": "Crea un account senza sforzo grazie al nostro processo di iscrizione intuitivo."
+  },
+  "DashboardLayout": {
+    "home": "Home",
+    "todos": "Todo",
+    "members": "Membri",
+    "billing": "Fatturazione",
+    "settings": "Impostazioni",
+    "transactions": "Transazioni"
+  },
+  "Dashboard": {
+    "meta_title": "Dashboard del template SaaS",
+    "meta_description": "Un modello gratuito e open-source per la pagina di destinazione della tua attività SaaS, costruito con Next.js, TypeScript, Shadcn UI e Tailwind CSS."
+  },
+  "DashboardIndex": {
+    "title_bar": "Dashboard",
+    "title_bar_description": "Benvenuto nella tua dashboard",
+    "message_state_title": "Iniziamo",
+    "message_state_description": "Puoi personalizzare questa pagina modificando il file in <code>dashboard/page.tsx</code>",
+    "message_state_button": "Hai bisogno dell'integrazione con Stripe? Scopri Next.js Boilerplate Pro"
+  },
+  "UserProfile": {
+    "title_bar": "Profilo Utente",
+    "title_bar_description": "Visualizza e gestisci il tuo profilo utente"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Gestione Organizzazione",
+    "title_bar_description": "Gestisci la tua organizzazione"
+  },
+  "Billing": {
+    "title_bar": "Fatturazione",
+    "title_bar_description": "Gestisci la tua fatturazione e il tuo abbonamento",
+    "current_section_title": "Piano Attuale",
+    "current_section_description": "Adatta il tuo piano di pagamento alle tue esigenze",
+    "manage_subscription_button": "Gestisci Abbonamento"
+  },
+  "BillingOptions": {
+    "current_plan": "Piano Attuale",
+    "upgrade_plan": "Inizia ora"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Conferma di Pagamento",
+    "message_state_title": "Pagamento avvenuto con successo",
+    "message_state_description": "Il tuo pagamento è stato elaborato con successo. Grazie per il tuo acquisto!",
+    "message_state_button": "Torna alla Fatturazione"
+  },
+  "DataTable": {
+    "no_results": "Nessun risultato."
+  },
+  "Todos": {
+    "title_bar": "Lista delle cose da fare",
+    "title_bar_description": "Visualizza e gestisci la tua lista delle cose da fare",
+    "add_todo_button": "Nuovo Todo"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Apri menu",
+    "edit": "Modifica",
+    "delete": "Elimina",
+    "title_header": "Titolo",
+    "message_header": "Messaggio",
+    "created_at_header": "Creato il"
+  },
+  "AddTodo": {
+    "title_bar": "Aggiungi Todo",
+    "add_todo_section_title": "Crea un nuovo Todo",
+    "add_todo_section_description": "Compila il modulo qui sotto per creare un nuovo Todo"
+  },
+  "EditTodo": {
+    "title_bar": "Modifica Todo",
+    "edit_todo_section_title": "Modifica Todo",
+    "edit_todo_section_description": "Compila il modulo qui sotto per modificare il Todo"
+  },
+  "TodoForm": {
+    "title_label": "Titolo",
+    "title_description": "Inserisci un titolo descrittivo per il tuo Todo.",
+    "message_title": "Messaggio",
+    "message_description": "Inserisci un messaggio dettagliato per il tuo Todo.",
+    "submit_button": "Invia"
+  }
+}
